@@ -3,7 +3,7 @@
 http://music.163.com/api/user/playlist/?uid=40652589&limit=1000&offset=0
 
 ## To get details of a specific playlist
-http://music.163.com/api/playlist/detail?id=34176019
+http://music.163.com/api/playlist/detail?id=4000000
 
 
 
